@@ -79,7 +79,7 @@
    <e id="18">
       <c id="1">vb 3</c>
       <c id="2">abatu</c>
-      <c id="3">depărta - refl, v</c>
+      <c id="3" gi="refl">depărta</c>
    </e>
    <e id="19">
       <c id="1">vb 3</c>
@@ -99,12 +99,12 @@
    <e id="22">
       <c id="1">vb 3</c>
       <c id="2">abatu</c>
-      <c id="3">îndepărta - refl, v</c>
+      <c id="3" gi="refl">îndepărta</c>
    </e>
    <e id="23">
       <c id="1">vb 3</c>
       <c id="2">abatu</c>
-      <c id="3">opri - refl, v</c>
+      <c id="3" gi="refl">opri</c>
    </e>
    <e id="24">
       <c id="1">vb 3</c>
@@ -288,7 +288,7 @@
    <e id="64">
       <c id="1">vb 3</c>
       <c id="2">acâkisescu</c>
-      <c id="3">împăca, refl, v</c>
+      <c id="3" gi="refl">împăca</c>
    </e>
    <e id="65">
       <c id="1">vb 3</c>
@@ -767,15 +767,15 @@
       <c id="2">încorpora</c>
    </e>
    <e id="183">
-      <c id="1">acljem, refl</c>
+      <c id="1" gi="refl">acljem</c>
       <c id="2">însemna, v</c>
    </e>
    <e id="184">
-      <c id="1">acljem, refl</c>
+      <c id="1" gi="refl">acljem</c>
       <c id="2">numi, a se, v</c>
    </e>
    <e id="185">
-      <c id="1">acljem, refl</c>
+      <c id="1" gi="refl">acljem</c>
       <c id="2">supranumi, v</c>
    </e>
    <e id="186">
@@ -1899,7 +1899,7 @@
       <c id="2">realiza, v</c>
    </e>
    <e id="463">
-      <c id="1">aducu - refl</c>
+      <c id="1" gi="refl">aducu</c>
       <c id="2">semăna, v</c>
    </e>
    <e id="464">
@@ -2399,7 +2399,7 @@
       <c id="2">conveni, v</c>
    </e>
    <e id="588">
-      <c id="1">aflu, reflexiv</c>
+      <c id="1" gi="refl">aflu</c>
       <c id="2">naşte, a se</c>
    </e>
    <e id="589">
@@ -3225,8 +3225,8 @@
       <c id="2">pipăit</c>
    </e>
    <e id="794">
-      <c id="1">ahuljisescu, nereflexiv</c>
-      <c id="2">supăra, v reflexiv</c>
+      <c id="1" gi="nereflexiv">ahuljisescu</c>
+      <c id="2" gi="reflexiv">supăra, v</c>
    </e>
    <e id="795">
       <c id="1">ahundosu</c>
@@ -3915,12 +3915,12 @@
       <c id="2">discernământ</c>
    </e>
    <e id="966">
-      <c id="1">aleapidu, refl</c>
+      <c id="1" gi="refl">aleapidu</c>
       <c id="2">lepăda, v</c>
    </e>
    <e id="967">
-      <c id="1">aleapidu, refl</c>
-      <c id="2">repezi, v refl</c>
+      <c id="1" gi="refl">aleapidu</c>
+      <c id="2" gi="refl">repezi, v</c>
    </e>
    <e id="968">
       <c id="1">alegu</c>
@@ -4043,8 +4043,8 @@
       <c id="2">lipi, v</c>
    </e>
    <e id="998">
-      <c id="1">alikescu, reflexiv</c>
-      <c id="2">prinde, v refl</c>
+      <c id="1" gi="refl">alikescu</c>
+      <c id="2" gi="refl">prinde, v</c>
    </e>
    <e id="999">
       <c id="1">alikiri</c>
@@ -6742,7 +6742,7 @@
    </e>
    <e id="1672">
       <c id="1">angârlimu</c>
-      <c id="2">căţăra, v ref</c>
+      <c id="2" gi="refl">căţăra, v</c>
    </e>
    <e id="1673">
       <c id="1">angârsescu</c>
@@ -6961,11 +6961,11 @@
       <c id="2">greu, a atârna, a fi</c>
    </e>
    <e id="1727">
-      <c id="1">angrecu, refl</c>
+      <c id="1" gi="refl">angrecu</c>
       <c id="2">lene, v a fi</c>
    </e>
    <e id="1728">
-      <c id="1">angrecu, refl</c>
+      <c id="1" gi="refl">angrecu</c>
       <c id="2">ruga stăruitor, v</c>
    </e>
    <e id="1729">
@@ -8795,7 +8795,7 @@
    </e>
    <e id="2184">
       <c id="1">apunu</c>
-      <c id="2">aşeza, v refl</c>
+      <c id="2" gi="refl">aşeza, v</c>
    </e>
    <e id="2185">
       <c id="1">apunu</c>
@@ -8803,11 +8803,11 @@
    </e>
    <e id="2186">
       <c id="1">apunu</c>
-      <c id="2">culca, v refl</c>
+      <c id="2" gi="refl">culca, v</c>
    </e>
    <e id="2187">
       <c id="1">apunu</c>
-      <c id="2">diminua, v refl</c>
+      <c id="2" gi="refl">diminua, v</c>
    </e>
    <e id="2188">
       <c id="1">apunu</c>
@@ -8823,7 +8823,7 @@
    </e>
    <e id="2191">
       <c id="1">apunu</c>
-      <c id="2">reduce, refl</c>
+      <c id="2" gi="refl">reduce</c>
    </e>
    <e id="2192">
       <c id="1">apuplixii</c>
@@ -10939,7 +10939,7 @@
    </e>
    <e id="2720">
       <c id="1">arkishuru</c>
-      <c id="2">strecura, v-refl</c>
+      <c id="2" gi="refl">strecura, v</c>
    </e>
    <e id="2721">
       <c id="1">arlâki</c>
@@ -16008,7 +16008,7 @@
    </e>
    <e id="3984">
       <c id="1">bagu zvercâ</c>
-      <c id="2">îngrăşa, v refl</c>
+      <c id="2" gi="refl">îngrăşa, v</c>
    </e>
    <e id="3985">
       <c id="1">bâhce</c>
@@ -16047,7 +16047,7 @@
       <c id="2">vechi</c>
    </e>
    <e id="3994">
-      <c id="1">bâildisescu, nereflexiv</c>
+      <c id="1" gi="nereflexiv">bâildisescu</c>
       <c id="2">extenua, v</c>
    </e>
    <e id="3995">
@@ -17933,7 +17933,7 @@
       <c id="2">ulei de in</c>
    </e>
    <e id="4465">
-      <c id="1">bizirsescu, nereflexiv</c>
+      <c id="1" gi="nereflexiv">bizirsescu</c>
       <c id="2">plictisi</c>
    </e>
    <e id="4466">
@@ -38504,7 +38504,7 @@
    <e id="8879">
       <c id="1">vb 1</c>
       <c id="2">discurmu - mi</c>
-      <c id="3">reveni după efort, refl, v</c>
+      <c id="3" gi="refl">reveni după efort, v</c>
    </e>
    <e id="8880">
       <c id="1">vb 1</c>
@@ -39034,7 +39034,7 @@
    <e id="8985">
       <c id="1">vb 4</c>
       <c id="2">dispustusescu</c>
-      <c id="3">reveni după efort, refl, v</c>
+      <c id="3" gi="refl">reveni după efort, v</c>
    </e>
    <e id="8986">
       <c id="1">vb 4</c>
@@ -39269,7 +39269,7 @@
    <e id="9032">
       <c id="1">vb 4</c>
       <c id="2">disvursescu - mi</c>
-      <c id="3">reveni după efort, refl, v</c>
+      <c id="3" gi="refl">reveni după efort, v</c>
    </e>
    <e id="9033">
       <c id="1">conj</c>
@@ -46712,7 +46712,7 @@
    <e id="10529">
       <c id="1">vb 4+2+1.</c>
       <c id="2">fugu</c>
-      <c id="3">duce, v refl</c>
+      <c id="3" gi="refl">duce, v</c>
    </e>
    <e id="10530">
       <c id="1">vb 4+2+1.</c>
@@ -62797,11 +62797,11 @@
       <c id="2">păta, v</c>
    </e>
    <e id="13834">
-      <c id="1">lâiescu, reflexiv</c>
+      <c id="1" gi="refl">lâiescu</c>
       <c id="2">plictisi, v</c>
    </e>
    <e id="13835">
-      <c id="1">lâiescu, reflexiv</c>
+      <c id="1" gi="refl">lâiescu</c>
       <c id="2">urî, v - plictisi</c>
    </e>
    <e id="13836">
@@ -63382,7 +63382,7 @@
    </e>
    <e id="13980">
       <c id="1">lâthâsescu</c>
-      <c id="2">înşela, v - reflexiv</c>
+      <c id="2" gi="refl">înşela, v</c>
    </e>
    <e id="13981">
       <c id="1">lâthipsescu</c>
@@ -63390,7 +63390,7 @@
    </e>
    <e id="13982">
       <c id="1">lâthipsescu</c>
-      <c id="2">înşela, v - reflexiv</c>
+      <c id="2" gi="refl">înşela, v</c>
    </e>
    <e id="13983">
       <c id="1">lâthosiri</c>
@@ -63730,7 +63730,7 @@
    </e>
    <e id="14067">
       <c id="1">legu</c>
-      <c id="2">angaja, v - reflexiv</c>
+      <c id="2" gi="refl">angaja, v</c>
    </e>
    <e id="14068">
       <c id="1">legu</c>
@@ -64665,7 +64665,7 @@
       <c id="2">uşura, v</c>
    </e>
    <e id="14301">
-      <c id="1">lishuredzu, reflexiv</c>
+      <c id="1" gi="refl">lishuredzu</c>
       <c id="2">prosti, a se</c>
    </e>
    <e id="14302">
@@ -65138,7 +65138,7 @@
       <c id="2">uşura, v</c>
    </e>
    <e id="14419">
-      <c id="1">ljishuredzu, reflexiv</c>
+      <c id="1" gi="refl">ljishuredzu</c>
       <c id="2">prosti, a se</c>
    </e>
    <e id="14420">
@@ -75452,7 +75452,7 @@
    </e>
    <e id="16996">
       <c id="1">ngârlim</c>
-      <c id="2">căţăra, v ref</c>
+      <c id="2" gi="refl">căţăra, v</c>
    </e>
    <e id="16997">
       <c id="1">ngârmâru</c>
@@ -82587,7 +82587,7 @@
    </e>
    <e id="18756">
       <c id="1">pârmârâsescu</c>
-      <c id="2">depărta - refl, v</c>
+      <c id="2" gi="refl">depărta, v</c>
    </e>
    <e id="18757">
       <c id="1">pârmârâsescu</c>
@@ -82603,11 +82603,11 @@
    </e>
    <e id="18760">
       <c id="1">pârmârâsescu</c>
-      <c id="2">îndepărta - refl, v</c>
+      <c id="2" gi="refl">îndepărta, v</c>
    </e>
    <e id="18761">
       <c id="1">pârmârâsescu</c>
-      <c id="2">opri - refl, v</c>
+      <c id="2" gi="refl">opri, v</c>
    </e>
    <e id="18762">
       <c id="1">pârmârâsescu</c>
@@ -82627,7 +82627,7 @@
    </e>
    <e id="18766">
       <c id="1">pârmâsescu</c>
-      <c id="2">depărta - refl, v</c>
+      <c id="2" gi="refl">depărta, v</c>
    </e>
    <e id="18767">
       <c id="1">pârmâsescu</c>
@@ -82643,11 +82643,11 @@
    </e>
    <e id="18770">
       <c id="1">pârmâsescu</c>
-      <c id="2">îndepărta - refl, v</c>
+      <c id="2" gi="refl">îndepărta, v</c>
    </e>
    <e id="18771">
       <c id="1">pârmâsescu</c>
-      <c id="2">opri - refl, v</c>
+      <c id="2" gi="refl">opri, v</c>
    </e>
    <e id="18772">
       <c id="1">pârmâsescu</c>
@@ -105071,15 +105071,15 @@
       <c id="2">toca, v</c>
    </e>
    <e id="24351">
-      <c id="1">tocu, ref - ânj u toacâ</c>
+      <c id="1" gi="refl">tocu, ânj u toacâ</c>
       <c id="2">aminti, v</c>
    </e>
    <e id="24352">
-      <c id="1">tocu, ref - ânj u toacâ</c>
+      <c id="1" gi="refl">tocu, ânj u toacâ</c>
       <c id="2">gândi, v</c>
    </e>
    <e id="24353">
-      <c id="1">tocu, ref - ânj u toacâ</c>
+      <c id="1" gi="refl">tocu, ânj u toacâ</c>
       <c id="2">veni în gând, v</c>
    </e>
    <e id="24354">
@@ -105392,7 +105392,7 @@
    </e>
    <e id="24431">
       <c id="1">tradzi</c>
-      <c id="2">întinde, v ref</c>
+      <c id="2" gi="refl">întinde, v</c>
    </e>
    <e id="24432">
       <c id="1">tradzi bozâ mari</c>
@@ -109562,7 +109562,7 @@
    </e>
    <e id="25472">
       <c id="1">v 3</c>
-      <c id="2">urdinu, ref</c>
+      <c id="2" gi="refl">urdinu</c>
       <c id="3">diaree a avea, v</c>
    </e>
    <e id="25473">
