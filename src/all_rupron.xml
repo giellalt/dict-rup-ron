@@ -185,7 +185,7 @@
    </e>
    <e id="40">
       <c id="1">aburedzu</c>
-      <c id="2">abura ,v</c>
+      <c id="2">abura, v</c>
    </e>
    <e id="41">
       <c id="1">aburedzu</c>
@@ -2852,7 +2852,7 @@
    </e>
    <e id="701">
       <c id="1">agiungu</c>
-      <c id="2">coace,v</c>
+      <c id="2">coace, v</c>
    </e>
    <e id="702">
       <c id="1">agiungu</c>
@@ -5062,7 +5062,7 @@
    </e>
    <e id="1252">
       <c id="1">amindu</c>
-      <c id="2">câştiga ,v</c>
+      <c id="2">câştiga, v</c>
    </e>
    <e id="1253">
       <c id="1">aminshushitsâ</c>
@@ -5098,7 +5098,7 @@
    </e>
    <e id="1261">
       <c id="1">amintu</c>
-      <c id="2">câştiga ,v</c>
+      <c id="2">câştiga, v</c>
    </e>
    <e id="1262">
       <c id="1">amintu, mi</c>
@@ -6546,11 +6546,11 @@
    </e>
    <e id="1623">
       <c id="1">andzâmedzu</c>
-      <c id="2">apare, v - fig</c>
+      <c id="2" ex="fig">apare, v</c>
    </e>
    <e id="1624">
       <c id="1">andzâmedzu</c>
-      <c id="2">ivi, v - a se , - fig</c>
+      <c id="2" ex="fig">ivi, a se, v</c>
    </e>
    <e id="1625">
       <c id="1">andzâmedzu</c>
@@ -7246,7 +7246,7 @@
    </e>
    <e id="1798">
       <c id="1">anjurdzescu</c>
-      <c id="2">simţi, v - fig</c>
+      <c id="2" ex="fig">simţi, v</c>
    </e>
    <e id="1799">
       <c id="1">anjurdziri</c>
@@ -7270,7 +7270,7 @@
    </e>
    <e id="1804">
       <c id="1">anjurzescu</c>
-      <c id="2">simţi, v - fig</c>
+      <c id="2" ex="fig">simţi, v</c>
    </e>
    <e id="1805">
       <c id="1">ankeadicu</c>
@@ -7354,7 +7354,7 @@
    </e>
    <e id="1825">
       <c id="1">ansârari</c>
-      <c id="2">bătaie, fig</c>
+      <c id="2" ex="fig">bătaie</c>
    </e>
    <e id="1826">
       <c id="1">ansârari</c>
@@ -7394,7 +7394,7 @@
    </e>
    <e id="1835">
       <c id="1">ansaru</c>
-      <c id="2">bate, v- măr - fig</c>
+      <c id="2" ex="fig">bate (măr), v</c>
    </e>
    <e id="1836">
       <c id="1">ansaru</c>
@@ -7590,7 +7590,7 @@
    </e>
    <e id="1884">
       <c id="1">anvâlescu</c>
-      <c id="2">şterpeli, v, fig</c>
+      <c id="2" ex="fig">şterpeli, v</c>
    </e>
    <e id="1885">
       <c id="1">anvâliri</c>
@@ -7662,7 +7662,7 @@
    </e>
    <e id="1902">
       <c id="1">anvârtescu</c>
-      <c id="2">şterpeli, v - fig</c>
+      <c id="2" ex="fig">şterpeli, v</c>
    </e>
    <e id="1903">
       <c id="1">anvârtiri</c>
@@ -9767,7 +9767,7 @@
    </e>
    <e id="2427">
       <c id="1">arâstoacâ</c>
-      <c id="2">strâmtoare -fig</c>
+      <c id="2" ex="fig">strâmtoare</c>
    </e>
    <e id="2428">
       <c id="1">arâstoacâ</c>
@@ -10091,7 +10091,7 @@
    </e>
    <e id="2508">
       <c id="1">arădz</c>
-      <c id="2">menstruaţie- fig</c>
+      <c id="2" ex="fig">menstruaţie</c>
    </e>
    <e id="2509">
       <c id="1">arădzâm</c>
@@ -10283,7 +10283,7 @@
    </e>
    <e id="2556">
       <c id="1">arcutescu</c>
-      <c id="2">bea, v -fig</c>
+      <c id="2" ex="fig">bea, v</c>
    </e>
    <e id="2557">
       <c id="1">arcutescu</c>
@@ -11239,7 +11239,7 @@
    </e>
    <e id="2795">
       <c id="1">aroamigu</c>
-      <c id="2">vorbi, v - fig</c>
+      <c id="2" ex="fig">vorbi, v</c>
    </e>
    <e id="2796">
       <c id="1">aroatâ</c>
@@ -11651,7 +11651,7 @@
    </e>
    <e id="2898">
       <c id="1">arucutescu</c>
-      <c id="2">bea, v -fig</c>
+      <c id="2" ex="fig">bea, v</c>
    </e>
    <e id="2899">
       <c id="1">arucutescu</c>
@@ -12143,7 +12143,7 @@
    </e>
    <e id="3021">
       <c id="1">arustoacâ</c>
-      <c id="2">strâmtoare -fig</c>
+      <c id="2" ex="fig">strâmtoare</c>
    </e>
    <e id="3022">
       <c id="1">arustoacâ</c>
@@ -12855,7 +12855,7 @@
    </e>
    <e id="3199">
       <c id="1">ashternu</c>
-      <c id="2">cuminţi, v - fig</c>
+      <c id="2" ex="fig">cuminţi, v</c>
    </e>
    <e id="3200">
       <c id="1">ashternu</c>
@@ -13147,7 +13147,7 @@
    </e>
    <e id="3272">
       <c id="1">aspilatu</c>
-      <c id="2">curat - fig</c>
+      <c id="2" ex="fig">curat</c>
    </e>
    <e id="3273">
       <c id="1">aspilatu</c>
@@ -13407,7 +13407,7 @@
    </e>
    <e id="3337">
       <c id="1">astesu</c>
-      <c id="2">afurisit-fig</c>
+      <c id="2" ex="fig">afurisit</c>
    </e>
    <e id="3338">
       <c id="1">astesu</c>
@@ -13499,15 +13499,15 @@
    </e>
    <e id="3360">
       <c id="1">astraptu</c>
-      <c id="2">nesocotit - fig</c>
+      <c id="2" ex="fig">nesocotit</c>
    </e>
    <e id="3361">
       <c id="1">astraptu</c>
-      <c id="2">pripit - fig</c>
+      <c id="2" ex="fig">pripit</c>
    </e>
    <e id="3362">
       <c id="1">astraptu</c>
-      <c id="2">trăsnit - fig</c>
+      <c id="2" ex="fig">trăsnit</c>
    </e>
    <e id="3363">
       <c id="1">astrâxescu</c>
@@ -13659,7 +13659,7 @@
    </e>
    <e id="3400">
       <c id="1">asunu</c>
-      <c id="2">bate, v - fig</c>
+      <c id="2" ex="fig">bate, v</c>
    </e>
    <e id="3401">
       <c id="1">asunu</c>
@@ -13919,11 +13919,11 @@
    </e>
    <e id="3465">
       <c id="1">aumbrâ</c>
-      <c id="2">străin - fig</c>
+      <c id="2" ex="fig">străin</c>
    </e>
    <e id="3466">
       <c id="1">aumbrâ</c>
-      <c id="2">strigoi - fig</c>
+      <c id="2" ex="fig">strigoi</c>
    </e>
    <e id="3467">
       <c id="1">aumbrâ</c>
@@ -13931,7 +13931,7 @@
    </e>
    <e id="3468">
       <c id="1">aumbrâ</c>
-      <c id="2">vârcolac - fig</c>
+      <c id="2" ex="fig">vârcolac</c>
    </e>
    <e id="3469">
       <c id="1">aumbrari</c>
@@ -14232,7 +14232,7 @@
    </e>
    <e id="3543">
       <c id="1">avdu</c>
-      <c id="2">asculta, v - fig</c>
+      <c id="2" ex="fig">asculta, v</c>
    </e>
    <e id="3544">
       <c id="1">avdu</c>
@@ -15428,7 +15428,7 @@
    </e>
    <e id="3839">
       <c id="1">azgheru</c>
-      <c id="2">zbiera, v - fig</c>
+      <c id="2" ex="fig">zbiera, v</c>
    </e>
    <e id="3840">
       <c id="1">azghirari</c>
@@ -15828,11 +15828,11 @@
    </e>
    <e id="3939">
       <c id="1">badzarâ</c>
-      <c id="2">bădăran - fig</c>
+      <c id="2" ex="fig">bădăran</c>
    </e>
    <e id="3940">
       <c id="1">badzarâ</c>
-      <c id="2">nespălat - fig</c>
+      <c id="2" ex="fig">nespălat</c>
    </e>
    <e id="3941">
       <c id="1">badzarâ</c>
@@ -15840,11 +15840,11 @@
    </e>
    <e id="3942">
       <c id="1">bâdzarâ</c>
-      <c id="2">bădăran - fig</c>
+      <c id="2" ex="fig">bădăran</c>
    </e>
    <e id="3943">
       <c id="1">bâdzarâ</c>
-      <c id="2">nespălat - fig</c>
+      <c id="2" ex="fig">nespălat</c>
    </e>
    <e id="3944">
       <c id="1">bâdzarâ</c>
@@ -16357,7 +16357,7 @@
    </e>
    <e id="4071">
       <c id="1">banderâ</c>
-      <c id="2">renume - fig</c>
+      <c id="2" ex="fig">renume</c>
    </e>
    <e id="4072">
       <c id="1">banderâ</c>
@@ -17074,7 +17074,7 @@
    </e>
    <e id="4250">
       <c id="1">bâteari</c>
-      <c id="2">cântare- fig</c>
+      <c id="2" ex="fig">cântare</c>
    </e>
    <e id="4251">
       <c id="1">bathava</c>
@@ -17142,7 +17142,7 @@
    </e>
    <e id="4267">
       <c id="1">batu</c>
-      <c id="2">vorbi, v - fig</c>
+      <c id="2" ex="fig">vorbi, v</c>
    </e>
    <e id="4268">
       <c id="1">bâtutâ cali</c>
@@ -17402,7 +17402,7 @@
    </e>
    <e id="4332">
       <c id="1">bicimsâzu</c>
-      <c id="2">sucit - fig</c>
+      <c id="2" ex="fig">sucit</c>
    </e>
    <e id="4333">
       <c id="1">bicriu</c>
@@ -18199,7 +18199,7 @@
    </e>
    <e id="4531">
       <c id="1">bora</c>
-      <c id="2">defăimare - fig</c>
+      <c id="2" ex="fig">defăimare</c>
    </e>
    <e id="4532">
       <c id="1">bora</c>
@@ -19225,8 +19225,8 @@
       <c id="2">bumbac</c>
    </e>
    <e id="4786">
-      <c id="1">bumbacu, fig</c>
-      <c id="2">moale</c>
+      <c id="1">bumbacu</c>
+      <c id="2" ex="fig">moale</c>
    </e>
    <e id="4787">
       <c id="1">bumbâkii</c>
@@ -19458,7 +19458,7 @@
    </e>
    <e id="4844">
       <c id="1">buricu</c>
-      <c id="2">inimă - fig</c>
+      <c id="2" ex="fig">inimă</c>
    </e>
    <e id="4845">
       <c id="1">buricu</c>
@@ -19490,7 +19490,7 @@
    </e>
    <e id="4852">
       <c id="1">burlidhâ</c>
-      <c id="2">ochi - fig</c>
+      <c id="2" ex="fig">ochi</c>
    </e>
    <e id="4853">
       <c id="1">burlidhâ</c>
@@ -19538,7 +19538,7 @@
    </e>
    <e id="4864">
       <c id="1">bushu</c>
-      <c id="2">ghem - fig</c>
+      <c id="2" ex="fig">ghem</c>
    </e>
    <e id="4865">
       <c id="1">bushu</c>
@@ -20441,7 +20441,7 @@
    </e>
    <e id="5089">
       <c id="1">caimenu</c>
-      <c id="2">sărac, fig</c>
+      <c id="2" ex="fig">sărac</c>
    </e>
    <e id="5090">
       <c id="1">caimenu</c>
@@ -20581,7 +20581,7 @@
    </e>
    <e id="5124">
       <c id="1">câlâbâlâki</c>
-      <c id="2">aglomeraţie - fig</c>
+      <c id="2" ex="fig">aglomeraţie</c>
    </e>
    <e id="5125">
       <c id="1">câlâbâlâki</c>
@@ -20605,7 +20605,7 @@
    </e>
    <e id="5130">
       <c id="1">câlai</c>
-      <c id="2">înşelătorie - fig</c>
+      <c id="2" ex="fig">înşelătorie</c>
    </e>
    <e id="5131">
       <c id="1">calai că...</c>
@@ -20822,7 +20822,7 @@
    </e>
    <e id="5184">
       <c id="1">caldu</c>
-      <c id="2">bogat, fig</c>
+      <c id="2" ex="fig">bogat</c>
    </e>
    <e id="5185">
       <c id="1">caldu</c>
@@ -21730,7 +21730,7 @@
    </e>
    <e id="5406">
       <c id="1">cândilâ</c>
-      <c id="2">gură - fig</c>
+      <c id="2" ex="fig">gură</c>
    </e>
    <e id="5407">
       <c id="1">candilanaftu</c>
@@ -22570,7 +22570,7 @@
    </e>
    <e id="5607">
       <c id="1">capsu</c>
-      <c id="2">săracu, fig</c>
+      <c id="2" ex="fig">săracu</c>
    </e>
    <e id="5608">
       <c id="1">capsumanu</c>
@@ -25046,12 +25046,12 @@
    <e id="6183">
       <c id="1">sf</c>
       <c id="2">câtsau</c>
-      <c id="3">răutăcoiasă-fig</c>
+      <c id="3" ex="fig">răutăcoiasă</c>
    </e>
    <e id="6184">
       <c id="1">sf</c>
       <c id="2">câtsau</c>
-      <c id="3">rea-fig</c>
+      <c id="3" ex="fig">rea</c>
    </e>
    <e id="6185">
       <c id="1">sm</c>
@@ -25205,7 +25205,7 @@
    <e id="6215">
       <c id="1">sf</c>
       <c id="2">câtushi</c>
-      <c id="3">ipocrit-fig</c>
+      <c id="3" ex="fig">ipocrit</c>
    </e>
    <e id="6216">
       <c id="1">sf</c>
@@ -25280,7 +25280,7 @@
    <e id="6230">
       <c id="1">adv</c>
       <c id="2">câvalâ</c>
-      <c id="3">deasupra-fig</c>
+      <c id="3" ex="fig">deasupra</c>
    </e>
    <e id="6231">
       <c id="1">sf</c>
@@ -28664,7 +28664,7 @@
    <e id="6909">
       <c id="1">sn</c>
       <c id="2">cljeagu</c>
-      <c id="3">avere - fig</c>
+      <c id="3" ex="fig">avere</c>
    </e>
    <e id="6910">
       <c id="1">sn</c>
@@ -30098,7 +30098,7 @@
    <e id="7196">
       <c id="1">vb 1</c>
       <c id="2">crepu</c>
-      <c id="3">muri, v - fig</c>
+      <c id="3" ex="fig">muri, v</c>
    </e>
    <e id="7197">
       <c id="1">vb 1</c>
@@ -30203,7 +30203,7 @@
    <e id="7217">
       <c id="1">sf</c>
       <c id="2">cripari</c>
-      <c id="3">necaz, fig</c>
+      <c id="3" ex="fig">necaz</c>
    </e>
    <e id="7218">
       <c id="1">sf</c>
@@ -30233,12 +30233,12 @@
    <e id="7223">
       <c id="1">adj</c>
       <c id="2">cripatu</c>
-      <c id="3">îngrijorat, fig</c>
+      <c id="3" ex="fig">îngrijorat</c>
    </e>
    <e id="7224">
       <c id="1">adj</c>
       <c id="2">cripatu</c>
-      <c id="3">nefericit, fig</c>
+      <c id="3" ex="fig">nefericit</c>
    </e>
    <e id="7225">
       <c id="1">adj</c>
@@ -30333,7 +30333,7 @@
    <e id="7243">
       <c id="1">adj</c>
       <c id="2">crishtinu</c>
-      <c id="3">om bun, fig</c>
+      <c id="3" ex="fig">om bun</c>
    </e>
    <e id="7244">
       <c id="1">sf</c>
@@ -30404,7 +30404,7 @@
    <e id="7257">
       <c id="1">vb 4</c>
       <c id="2">cruescu</c>
-      <c id="3">aranja, v fig</c>
+      <c id="3" ex="fig">aranja, v</c>
    </e>
    <e id="7258">
       <c id="1">vb 4</c>
@@ -30429,7 +30429,7 @@
    <e id="7262">
       <c id="1">vb 4</c>
       <c id="2">cruescu</c>
-      <c id="3">urzi, v fig</c>
+      <c id="3" ex="fig">urzi, v</c>
    </e>
    <e id="7263">
       <c id="1">sf</c>
@@ -31099,7 +31099,7 @@
    <e id="7396">
       <c id="1">adj</c>
       <c id="2">cufuritu</c>
-      <c id="3">fricos, fig</c>
+      <c id="3" ex="fig">fricos</c>
    </e>
    <e id="7397">
       <c id="1">adj</c>
@@ -31109,12 +31109,12 @@
    <e id="7398">
       <c id="1">adj</c>
       <c id="2">cufuryearu</c>
-      <c id="3">fricos, fig</c>
+      <c id="3" ex="fig">fricos</c>
    </e>
    <e id="7399">
       <c id="1">adj</c>
       <c id="2">cufuryiosu</c>
-      <c id="3">fricos, fig</c>
+      <c id="3" ex="fig">fricos</c>
    </e>
    <e id="7400">
       <c id="1">vb 4</c>
@@ -32752,7 +32752,7 @@
    <e id="7727">
       <c id="1">sf</c>
       <c id="2">curbani</c>
-      <c id="3">drăguţ, fig</c>
+      <c id="3" ex="fig">drăguţ</c>
    </e>
    <e id="7728">
       <c id="1">sf</c>
@@ -32777,7 +32777,7 @@
    <e id="7732">
       <c id="1">sf</c>
       <c id="2">curbani</c>
-      <c id="3">scump, fig</c>
+      <c id="3" ex="fig">scump</c>
    </e>
    <e id="7733">
       <c id="1">sf</c>
@@ -32861,7 +32861,7 @@
    <e id="7749">
       <c id="1">sf pl</c>
       <c id="2">curcufeli</c>
-      <c id="3">fleacuri- fig</c>
+      <c id="3" ex="fig">fleacuri</c>
    </e>
    <e id="7750">
       <c id="1">sf pl</c>
@@ -32876,7 +32876,7 @@
    <e id="7752">
       <c id="1">sf pl</c>
       <c id="2">curcufexali</c>
-      <c id="3">fleacuri- fig</c>
+      <c id="3" ex="fig">fleacuri</c>
    </e>
    <e id="7753">
       <c id="1">sf pl</c>
@@ -33314,7 +33314,7 @@
    <e id="7840">
       <c id="1">sf pl</c>
       <c id="2">curnufexali</c>
-      <c id="3">fleacuri- fig</c>
+      <c id="3" ex="fig">fleacuri</c>
    </e>
    <e id="7841">
       <c id="1">sn pl</c>
@@ -34193,7 +34193,7 @@
    <e id="8016">
       <c id="1">sm</c>
       <c id="2">cutsuru</c>
-      <c id="3">prost, fig</c>
+      <c id="3" ex="fig">prost</c>
    </e>
    <e id="8017">
       <c id="1">sn</c>
@@ -41785,7 +41785,7 @@
    <e id="9537">
       <c id="1">sn</c>
       <c id="2">dzinucljiu</c>
-      <c id="3">neam - fig</c>
+      <c id="3" ex="fig">neam</c>
    </e>
    <e id="9538">
       <c id="1">sn</c>
@@ -46113,7 +46113,7 @@
    <e id="10409">
       <c id="1">adj</c>
       <c id="2">fricatu</c>
-      <c id="3">încercat - fig</c>
+      <c id="3" ex="fig">încercat</c>
    </e>
    <e id="10410">
       <c id="1">sf</c>
@@ -55395,7 +55395,7 @@
    <e id="12274">
       <c id="1">sf</c>
       <c id="2">heavrâ</c>
-      <c id="3">disperare - fig</c>
+      <c id="3" ex="fig">disperare</c>
    </e>
    <e id="12275">
       <c id="1">sf</c>
@@ -56438,8 +56438,7 @@
    <e id="12484">
       <c id="1">vb 4.</c>
       <c id="2">huhutescu - mi</c>
-      <c id="3">arunca, v</c>
-      <c id="4">fig</c>
+      <c id="3" ex="fig">arunca, v</c>
    </e>
    <e id="12485">
       <c id="1">vb 4.</c>
@@ -59184,7 +59183,7 @@
    <e id="12970">
       <c id="1">vb 1.</c>
       <c id="2">iskedzu - mi</c>
-      <c id="3">omorî, v - fig</c>
+      <c id="3" ex="fig">omorî, v</c>
       <c id="4">gr</c>
    </e>
    <e id="12971">
@@ -91085,19 +91084,19 @@
    </e>
    <e id="20856">
       <c id="1">roamigu</c>
-      <c id="2">vorbi, v - fig</c>
+      <c id="2" ex="fig">vorbi, v</c>
    </e>
    <e id="20857">
       <c id="1">roamigu</c>
-      <c id="2">vorbi, v - fig</c>
+      <c id="2" ex="fig">vorbi, v</c>
    </e>
    <e id="20858">
       <c id="1">roamigu</c>
-      <c id="2">vorbi, v - fig</c>
+      <c id="2" ex="fig">vorbi, v</c>
    </e>
    <e id="20859">
       <c id="1">roamigu</c>
-      <c id="2">vorbi, v - fig</c>
+      <c id="2" ex="fig">vorbi, v</c>
    </e>
    <e id="20860">
       <c id="1">roatâ</c>
@@ -98206,13 +98205,13 @@
       <c id="2">aşchie</c>
    </e>
    <e id="22636">
-      <c id="1">skizari -fig</c>
-      <c id="2">bădăran</c>
+      <c id="1">skizari</c>
+      <c id="2" ex="fig">bădăran</c>
       <c id="3">adj</c>
    </e>
    <e id="22637">
-      <c id="1">skizari -fig</c>
-      <c id="2">greu de cap</c>
+      <c id="1">skizari</c>
+      <c id="2" ex="fig">greu de cap</c>
       <c id="3">adj</c>
    </e>
    <e id="22638">
@@ -98909,7 +98908,7 @@
    </e>
    <e id="22811">
       <c id="1">spilatu</c>
-      <c id="2">curat - fig</c>
+      <c id="2" ex="fig">curat</c>
    </e>
    <e id="22812">
       <c id="1">spilatu</c>
@@ -108832,11 +108831,11 @@
    </e>
    <e id="25291">
       <c id="1">umbrâ</c>
-      <c id="2">străin - fig</c>
+      <c id="2" ex="fig">străin</c>
    </e>
    <e id="25292">
       <c id="1">umbrâ</c>
-      <c id="2">strigoi - fig</c>
+      <c id="2" ex="fig">strigoi</c>
    </e>
    <e id="25293">
       <c id="1">umbrâ</c>
@@ -108844,7 +108843,7 @@
    </e>
    <e id="25294">
       <c id="1">umbrâ</c>
-      <c id="2">vârcolac - fig</c>
+      <c id="2" ex="fig">vârcolac</c>
    </e>
    <e id="25295">
       <c id="1">umbratâ</c>
